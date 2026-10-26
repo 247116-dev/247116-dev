@@ -91,3 +91,5 @@ public class CacheLocalityBenchmark {
 // Refactor checkpoint 5 for question7 code formatting
 
 // Refactor checkpoint 1 for question7 code formatting
+
+// Refactor checkpoint 2 for question7 code formatting
