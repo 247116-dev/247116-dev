@@ -51,3 +51,5 @@ public class PortfolioThresholdTask extends RecursiveAction {
 // Refactor checkpoint 5 for question4 code formatting
 
 // Refactor checkpoint 1 for question4 code formatting
+
+// Refactor checkpoint 2 for question4 code formatting
