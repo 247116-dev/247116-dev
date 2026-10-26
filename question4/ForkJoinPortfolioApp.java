@@ -35,3 +35,4 @@ public class ForkJoinPortfolioApp {
         System.out.printf("Total Cumulative Risk (Post-Stress Test Penalty): $%.2f%n", totalRiskAfter);
     }
 }
+// Refactor checkpoint 1 for question4 code formatting

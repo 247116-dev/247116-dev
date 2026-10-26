@@ -33,3 +33,4 @@ public class ParallelRiskCalculator extends RecursiveTask<Double> {
         }
     }
 }
+// Refactor checkpoint 1 for question4 code formatting
