@@ -48,3 +48,5 @@ public abstract class SensorSearchEngine implements Runnable {
 // Refactor checkpoint 3 for question5 code formatting
 
 // Refactor checkpoint 4 for question5 code formatting
+
+// Refactor checkpoint 5 for question5 code formatting
