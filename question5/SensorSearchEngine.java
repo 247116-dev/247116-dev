@@ -21,3 +21,4 @@ public abstract class SensorSearchEngine implements Runnable {
         return result;
     }
 }
+// Refactor checkpoint 1 for question5 code formatting

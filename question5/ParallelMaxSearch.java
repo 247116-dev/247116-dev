@@ -16,3 +16,4 @@ public class ParallelMaxSearch extends SensorSearchEngine {
         this.result = max;
     }
 }
+// Refactor checkpoint 1 for question5 code formatting

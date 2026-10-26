@@ -16,3 +16,4 @@ public class ParallelMinSearch extends SensorSearchEngine {
         this.result = min;
     }
 }
+// Refactor checkpoint 1 for question5 code formatting

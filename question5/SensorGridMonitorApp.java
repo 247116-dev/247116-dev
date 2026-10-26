@@ -53,3 +53,4 @@ public class SensorGridMonitorApp {
         System.out.printf("Total Parallel Reduction Execution Time: %.3f ms%n", executionTimeMs);
     }
 }
+// Refactor checkpoint 1 for question5 code formatting
