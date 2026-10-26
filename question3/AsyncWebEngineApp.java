@@ -44,3 +44,5 @@ public class AsyncWebEngineApp {
 // Refactor checkpoint 4 for question3 code formatting
 
 // Refactor checkpoint 5 for question3 code formatting
+
+// Refactor checkpoint 1 for question3 code formatting
