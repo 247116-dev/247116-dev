@@ -38,3 +38,5 @@ public class RequestQueue {
     }
 }
 // Refactor checkpoint 1 for question2 code formatting
+
+// Refactor checkpoint 2 for question2 code formatting
