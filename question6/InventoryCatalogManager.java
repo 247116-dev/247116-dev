@@ -80,3 +80,4 @@ public class InventoryCatalogManager {
         benchmarkConcurrentMap();
     }
 }
+// Refactor checkpoint 1 for question6 code formatting
