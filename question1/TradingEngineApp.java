@@ -13,3 +13,4 @@ public class TradingEngineApp {
         reutersEvent.dispatch();
     }
 }
+// Refactor checkpoint 1 for question1 code formatting

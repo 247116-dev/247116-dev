@@ -14,3 +14,4 @@ public class FIXOrderEvent extends TradeEvent {
                 clOrdId, senderId, basePrice, fee, totalPrice);
     }
 }
+// Refactor checkpoint 1 for question1 code formatting

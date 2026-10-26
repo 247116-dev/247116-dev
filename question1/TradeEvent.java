@@ -13,3 +13,4 @@ public class TradeEvent {
         System.out.println("[GENERIC EVENT] Sender: " + senderId + " | Timestamp: " + timestamp + " | Base Price: $" + basePrice);
     }
 }
+// Refactor checkpoint 1 for question1 code formatting

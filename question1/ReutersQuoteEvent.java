@@ -15,3 +15,4 @@ public class ReutersQuoteEvent extends TradeEvent {
                 senderId, timestamp, bidPrice, askPrice, spread);
     }
 }
+// Refactor checkpoint 1 for question1 code formatting
