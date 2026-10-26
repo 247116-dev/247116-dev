@@ -25,3 +25,5 @@ public class TelemetryThread extends Thread {
 // Refactor checkpoint 1 for question3 code formatting
 
 // Refactor checkpoint 2 for question3 code formatting
+
+// Refactor checkpoint 3 for question3 code formatting
