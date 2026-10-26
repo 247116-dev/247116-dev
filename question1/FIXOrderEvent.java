@@ -25,3 +25,5 @@ public class FIXOrderEvent extends TradeEvent {
 // Refactor checkpoint 5 for question1 code formatting
 
 // Refactor checkpoint 1 for question1 code formatting
+
+// Refactor checkpoint 2 for question1 code formatting
