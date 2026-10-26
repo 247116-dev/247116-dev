@@ -29,3 +29,5 @@ public class LogProcessorTask implements Runnable {
 // Refactor checkpoint 3 for question3 code formatting
 
 // Refactor checkpoint 4 for question3 code formatting
+
+// Refactor checkpoint 5 for question3 code formatting
