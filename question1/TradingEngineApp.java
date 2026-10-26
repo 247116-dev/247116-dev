@@ -36,3 +36,5 @@ public class TradingEngineApp {
 // Refactor checkpoint 1 for question1 code formatting
 
 // Refactor checkpoint 2 for question1 code formatting
+
+// Refactor checkpoint 3 for question1 code formatting
