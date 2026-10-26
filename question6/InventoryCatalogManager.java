@@ -103,3 +103,5 @@ public class InventoryCatalogManager {
 // Refactor checkpoint 1 for question6 code formatting
 
 // Refactor checkpoint 2 for question6 code formatting
+
+// Refactor checkpoint 3 for question6 code formatting
