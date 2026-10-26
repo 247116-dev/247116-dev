@@ -16,3 +16,5 @@ public class ReutersQuoteEvent extends TradeEvent {
     }
 }
 // Refactor checkpoint 1 for question1 code formatting
+
+// Refactor checkpoint 2 for question1 code formatting
