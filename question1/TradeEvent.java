@@ -22,3 +22,5 @@ public class TradeEvent {
 // Refactor checkpoint 4 for question1 code formatting
 
 // Refactor checkpoint 5 for question1 code formatting
+
+// Refactor checkpoint 1 for question1 code formatting
