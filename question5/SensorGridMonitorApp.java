@@ -54,3 +54,5 @@ public class SensorGridMonitorApp {
     }
 }
 // Refactor checkpoint 1 for question5 code formatting
+
+// Refactor checkpoint 2 for question5 code formatting

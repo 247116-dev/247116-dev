@@ -17,3 +17,5 @@ public class ParallelMinSearch extends SensorSearchEngine {
     }
 }
 // Refactor checkpoint 1 for question5 code formatting
+
+// Refactor checkpoint 2 for question5 code formatting
