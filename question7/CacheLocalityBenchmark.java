@@ -70,3 +70,4 @@ public class CacheLocalityBenchmark {
         System.out.println("2. Column-Major Traversal (j, i) accesses elements separated by 2000 double elements (16,000 bytes offset, non-contiguous stride). This causes spatial locality invalidation, generating constant L1/L2 cache misses, memory bus stalls, and frequent main memory roundtrips, significantly degrading performance.");
     }
 }
+// Refactor checkpoint 1 for question7 code formatting
