@@ -35,3 +35,4 @@ public class TransactionStack {
         return top == -1;
     }
 }
+// Refactor checkpoint 1 for question2 code formatting

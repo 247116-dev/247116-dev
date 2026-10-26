@@ -39,3 +39,5 @@ public class PacketSymmetryAuditor {
         scanner.close();
     }
 }
+
+// Refactor checkpoint 1 for question2 code formatting
