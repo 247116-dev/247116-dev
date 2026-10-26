@@ -12,3 +12,4 @@ public class TelemetryThread extends Thread {
         System.out.println("[" + Thread.currentThread().getName() + "] Metrics Worker Clean-up complete.");
     }
 }
+// Refactor checkpoint 1 for question3 code formatting

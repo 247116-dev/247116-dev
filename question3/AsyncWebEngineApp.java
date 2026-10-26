@@ -25,3 +25,4 @@ public class AsyncWebEngineApp {
         System.out.println("Master Driver Thread (" + Thread.currentThread().getName() + "): All background telemetry tasks terminated cleanly.");
     }
 }
+// Refactor checkpoint 1 for question3 code formatting

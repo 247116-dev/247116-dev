@@ -12,3 +12,4 @@ public class LogProcessorTask implements Runnable {
         System.out.println("[" + Thread.currentThread().getName() + "] Batch Log Analysis Task Clean-up complete.");
     }
 }
+// Refactor checkpoint 1 for question3 code formatting
