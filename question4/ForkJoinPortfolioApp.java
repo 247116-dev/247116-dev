@@ -48,3 +48,5 @@ public class ForkJoinPortfolioApp {
 // Refactor checkpoint 1 for question4 code formatting
 
 // Refactor checkpoint 2 for question4 code formatting
+
+// Refactor checkpoint 3 for question4 code formatting
